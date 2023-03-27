@@ -1,4 +1,3 @@
-// const appClientId="37a982f53b8343b79f80e75523ef4771";
 const appClientId = process.env.REACT_APP_SPOTIFY_CLIENT_ID
 const redirectUri = "http://localhost:3000/";
 let accessToken = null;
